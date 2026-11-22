@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-NC-ANALYSIS",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "6a450ddd26893c31de4ce781db62a2d2addb7eb57e8d922ddf86d14a76be0718"
+    "sha256": "89bbeff9e77f9e3b675633b9d65ee553710407951b92753db658ba84f56ac0b1"
   }
 }

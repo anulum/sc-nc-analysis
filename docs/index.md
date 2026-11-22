@@ -12,4 +12,6 @@ SC-NC-ANALYSIS — repository foundation
 
 SC-NC Analysis is being built as the analysis layer split out of SC-NeuroCore: the observable series taken from runs and recordings, their statistical summaries, and the fits, cohorts and measurements that compare models with data. It imports SC-NC Core, SC-NC Catalogue and SC-NC Engine. Its current executable surface is repository validation tooling. It has no installed analysis package, statistics runner, model fitter or qualified record schema.
 
+SC-NC Analysis is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
